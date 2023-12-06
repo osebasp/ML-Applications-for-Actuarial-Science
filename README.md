@@ -1,4 +1,4 @@
-# ML-Applications-for-Actuarial-Science
+# ML-Applications-for-Actuarial-Science - Oscar Sebastián Pulido Pinzón
 
 En este entorno tenemos la información relacionada al proyecto de estimación de reservas y el ejercicio de clasificación de digitos usando MNIST en Python.
 El informe final se ecncuentra en formato PDF bajo el nombre Metodología CRISP DM para problema de estimación de reservas Oscar Pulido.pdf
